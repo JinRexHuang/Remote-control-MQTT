@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 按下状态 -->
+    <item android:state_pressed="true">
+        <shape android:shape="oval">
+            <solid android:color="#D32F2F"/> <!-- 深红色 -->
+            <size android:width="60dp" android:height="60dp"/>
+        </shape>
+    </item>
+    <!-- 默认状态 -->
+    <item>
+        <shape android:shape="oval">
+            <gradient
+                android:startColor="#F44336"
+                android:endColor="#D32F2F"
+                android:angle="270"/>
+            <size android:width="60dp" android:height="60dp"/>
+        </shape>
+    </item>
+</selector>

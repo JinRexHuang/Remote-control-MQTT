@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 已连接状态 -->
+    <item android:state_activated="true" android:color="#00C853"/> <!-- 绿色文字 -->
+    <!-- 未连接状态 -->
+    <item android:color="#FF5252"/> <!-- 红色文字 -->
+</selector>

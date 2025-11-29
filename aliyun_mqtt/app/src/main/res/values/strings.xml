@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">设备控制中心</string>
+    <string name="tv_date_default">2023年10月25日</string>
+    <string name="tv_time_default">14:30:45</string>
+    <string name="tv_weekday_default">星期三</string>
+    <string name="status_disconnected">连接阿里云状态：未连接</string>
+    <string name="status_connected">连接阿里云状态：已连接</string>
+    <string name="btn_open_desc">开机按钮</string>
+
+    <string name="btn_close_desc">关机按钮</string>
+</resources>
